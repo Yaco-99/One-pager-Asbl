@@ -19,6 +19,7 @@
 h2 {
   font-size: 30px;
   margin: 20px;
+  margin-top: 10px;
 }
 p {
   font-size: 16px;
@@ -31,9 +32,7 @@ p {
   border-radius: 5px;
   padding-top: 10px;
   padding-bottom: 10px;
-  margin-top: 5%;
-  margin-left: 10%;
-  margin-right: 10%;
+  margin: 10%;
   box-sizing: border-box;
 }
 #secondPart {
@@ -109,4 +108,7 @@ p {
 .second svg {
   width: 3%;
   height: 3%;
+}
+.iframe {
+  text-align: center;
 }
